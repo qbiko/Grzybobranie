@@ -1,0 +1,94 @@
+<questions>
+	<exercise>
+		<question>O jakiej porze roku spotkać w lasach możemy gąsienicę wiosenną ?</question>
+		<answer correct="false">latem</answer>
+		<answer correct="true">wiosną</answer>
+		<answer correct="false">zimą</answer>
+		<answer correct="false">jesienią</answer>
+	</exercise>
+	<exercise>
+		<question>Co jest cechą charakterystyczną dla mleczaja świerkowego ?</question>
+		<answer correct="false">Jest biały</answer>
+		<answer correct="true">Po uszkodzeniu jego blaszki zielenieją</answer>
+		<answer correct="false">Nie występuje na Mazurach</answer>
+		<answer correct="false">Jest trujący</answer>
+	</exercise>	
+	<exercise>
+		<question>Jaki zapach wytwarza Łuskwiak zmienny ?</question>
+		<answer correct="false">zapach trawy cytrynowej</answer>
+		<answer correct="true">zapach świeżo ściętego drewna</answer>
+		<answer correct="false">zapach morskiej bryzy</answer>
+		<answer correct="false">zapach zgniłych jabłek</answer>
+	</exercise>
+	<exercise>
+		<question>Który z tych borowików jest trujący ?</question>
+		<answer correct="false">Borowik szlachetny</answer>
+		<answer correct="false">Borowik grubotrzonowy</answer>
+		<answer correct="true">Borowik żółtopory</answer>
+		<answer correct="false">Borowik ceglastopory</answer>
+	</exercise>
+	<exercise>
+		<question>Który z wymienionych gatunków pieczarek nie istnieje?</question>
+		<answer correct="true">Pieczarka kołpakowata</answer>
+		<answer correct="false">Pieczarka drobnołuskowa</answer>
+		<answer correct="false">Pieczarka krwawiąca</answer>
+		<answer correct="false">Pieczarka purpurowa</answer>
+	</exercise>
+	<exercise>
+		<question>Któy z wymienionych grzybów nie zawiera w swojej barwie fioletu?</question>
+		<answer correct="true">Goździeniec piękny</answer>
+		<answer correct="false">Paździorek ciemny</answer>
+		<answer correct="false">Błyszczak świetlny</answer>
+		<answer correct="false">Kędziorek siedzący</answer>
+	</exercise>
+	<exercise>
+		<question>Który z wymienionych grzybów rośnie na pastwiskach?</question>
+		<answer correct="true">Łysostopek pospolity</answer>
+		<answer correct="false">Wilgotnica papuzia</answer>
+		<answer correct="false">Koźlarz grabowy</answer>
+		<answer correct="false">Twardzioszek białawoliliowy</answer>
+	</exercise>
+	<exercise>
+		<question>Który z wymienionych grzybów nie należy do rodziny pieczarkowatych?</question>
+		<answer correct="true">Włókniczek skórkowaty</answer>
+		<answer correct="false">Strzykacz gwiazdkowaty</answer>
+		<answer correct="false">Galaretówka przejrzysta</answer>
+		<answer correct="false">Strocznik trzęsakowaty</answer>
+	</exercise>
+	<exercise>
+		<question>Który z wymienionych grzyb jest koloru niebieskiego ?</question>
+		<answer correct="false">Nakorownik radełkowaty</answer>
+		<answer correct="false">Siedzuń sosnowy</answer>
+		<answer correct="true">Pięknoskórnik modry</answer>
+		<answer correct="false">Lisówka pomarańczowa</answer>
+	</exercise>
+	<exercise>
+		<question>W którym kraju trzeba dokonać wpłaty pieniężnej, żeby móc zbierać grzyby ?</question>
+		<answer correct="false">Polsce</answer>
+		<answer correct="false">Hiszpanii</answer>
+		<answer correct="false">Finlandii</answer>
+		<answer correct="true">Francji</answer>
+	</exercise>
+	<exercise>
+		<question>Którego dnia w Polsce obchodzony jest dzień grzybiarza?</question>
+		<answer correct="true">24.09</answer>
+		<answer correct="false">12.09</answer>
+		<answer correct="false">21.01</answer>
+		<answer correct="false">24.12</answer>
+	</exercise>
+	<exercise>
+		<question>Który z grzybów najobficiej rośnie na przełomie sierpnia i września ?</question>
+		<answer correct="true">Kórka</answer>
+		<answer correct="false">Gąska</answer>
+		<answer correct="false">Opieńka</answer>
+		<answer correct="false">Kaczka</answer>
+	</exercise>
+	<exercise>
+		<question>Według stanowiska Polskich Lasów Państwowych grzyba należy:</question>
+		<answer correct="false">tylko wyciąć przy pomocy nożyka</answer>
+		<answer correct="true">zarówno wycięcie jak i wykręcenie jest poprawne</answer>
+		<answer correct="false">wykręcić</answer>
+		<answer correct="false">ułamać nóżkę tuż przy ziemi</answer>
+	</exercise>
+</questions>
+

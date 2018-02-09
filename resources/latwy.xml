@@ -1,0 +1,101 @@
+<questions>
+	<exercise>
+		<question>Jaką inną nazwę nosi popularny grzyb Kurka ?</question>
+		<answer correct="true">pieprznik jadalny</answer>
+		<answer correct="false">podgrzybek</answer>
+		<answer correct="false">lisówka pomarańczowa</answer>
+		<answer correct="false">borowik szlachetny</answer>
+	</exercise>
+	<exercise>
+		<question>O jakiej porze roku spotkać w lasach możemy gąsienicę wiosenną ?</question>
+		<answer correct="false">latem</answer>
+		<answer correct="true">wiosną</answer>
+		<answer correct="false">zimą</answer>
+		<answer correct="false">jesienią</answer>
+	</exercise>
+	<exercise>
+		<question>Muchomor czerwony jest:</question>
+		<answer correct="false">Biały w czerwone kropki</answer>
+		<answer correct="true">czerwony w białe kropki</answer>
+		<answer correct="false">Bardzo dobrym dodatkiem do zupy</answer>
+		<answer correct="false">Czerwony w czerwone kropki</answer>
+	</exercise>
+	<exercise>
+		<question>Czy Gąska zielonka jest grzybem jadalnym?</question>
+		<answer correct="false">Absolutnie nie</answer>
+		<answer correct="true">Zdecydowanie tak</answer>
+		<answer correct="false">To zależy od pory roku</answer>
+		<answer correct="false">To zależy od sposobu przygotowania</answer>
+	</exercise>
+	<exercise>
+		<question>Który z wymienionych grzybów podlega ścisłej ochronie ?</question>
+		<answer correct="false">Pępowniczka dzwonkowata</answer>
+		<answer correct="false">Siedzuń sosnowy</answer>
+		<answer correct="true">Kolczakówka piekąca</answer>
+		<answer correct="false">Lisówka pomarańczowa</answer>
+	</exercise>
+	<exercise>
+		<question>Który z muchomorów jest trujący ?</question>
+		<answer correct="false">Muchomor czerwieniejący</answer>
+		<answer correct="false">Muchomor rdzawobrązowy</answer>
+		<answer correct="true">Muchomor wiosenny</answer>
+		<answer correct="false">Muchomor cesarski</answer>
+	</exercise>
+	<exercise>
+		<question>Któy z wymienionych grzyb ma blaszki ?</question>
+		<answer correct="false">Nakorownik radełkowaty</answer>
+		<answer correct="false">Goryczak żółciowy</answer>
+		<answer correct="true">Kępowiec jasnobrązowy</answer>
+		<answer correct="false">Borowiec dęty</answer>
+	</exercise>
+	<exercise>
+		<question>W którym roku grzyby zostały oddzielone od królestwa roślin ?</question>
+		<answer correct="false">1212</answer>
+		<answer correct="false">1976</answer>
+		<answer correct="true">1938</answer>
+		<answer correct="false">1999</answer>
+	</exercise>
+	<exercise>
+		<question>W której epoce za stosowanie grzyb w lecznictwie można było spłonąć na stosie?</question>
+		<answer correct="false">w starożytności</answer>
+		<answer correct="false">w prehistorii</answer>
+		<answer correct="true">w średniowieczu</answer>
+		<answer correct="false">w baroku</answer>
+	</exercise>
+	<exercise>
+		<question>Jaki naród przypisywał truflom szczególne znaczenie i wierzył, że powstają one od uderzeń błyskawicy?</question>
+		<answer correct="false">Romowie</answer>
+		<answer correct="false">Brytanie</answer>
+		<answer correct="true">Rzymianie</answer>
+		<answer correct="false">Grecy</answer>
+	</exercise>
+	<exercise>
+		<question>Jak nazywa się najbardziej trujący grzyb na świecie ?</question>
+		<answer correct="true">Muchomor zielonawy</answer>
+		<answer correct="false">Muchomor jadowity</answer>
+		<answer correct="false">Piestrzenica kasztanowa</answer>
+		<answer correct="false">Lakówka ametysowa</answer>
+	</exercise>
+	<exercise>
+		<question>Najbardziej cenionym grzybem świata jest:</question>
+		<answer correct="true">Trufla biała</answer>
+		<answer correct="false">Aksamitówka złota</answer>
+		<answer correct="false">Piestrzenica kasztanowa</answer>
+		<answer correct="false">Mędziak malinowy</answer>
+	</exercise>
+	<exercise>
+		<question>Jaki kraj jest największym producentem i eksporterem pieczarek w Europie?</question>
+		<answer correct="true">Polska</answer>
+		<answer correct="false">Łotwa</answer>
+		<answer correct="false">Luksemburg</answer>
+		<answer correct="false">Francja</answer>
+	</exercise>
+	<exercise>
+		<question>Jedna z odmian podgrzybka swoją nazwę wiąże z pewnym zwierzęciem, jakim ?</question>
+		<answer correct="true">Zającem</answer>
+		<answer correct="false">Kozą</answer>
+		<answer correct="false">Chomikiem</answer>
+		<answer correct="false">Kaczką</answer>
+	</exercise>
+</questions>
+

@@ -1,0 +1,94 @@
+<questions>
+	<exercise>
+		<question>Jaka jest polska nazwa grzyba Amanita citrina ?</question>
+		<answer correct="false">Sarniak cytrynowy</answer>
+		<answer correct="false">Maślanka ceglasta</answer>
+		<answer correct="true">Muchmor cytrynowy</answer>
+		<answer correct="false">Muchomor sromotnikowy</answer>
+	</exercise>
+	<exercise>
+		<question>Który z wymienionych gatunków nie należy do śluzowców ?</question>
+		<answer correct="true">Mitróweczka błotna</answer>
+		<answer correct="false">Lakówka ametysowa</answer>
+		<answer correct="false">Niszczyk iglastodrzewny</answer>
+		<answer correct="false">Goździeniec fioletowy</answer>
+	</exercise>
+	<exercise>
+		<question>Który z wymienionych grzybów nie rośnie na drzewie?</question>
+		<answer correct="true">Kołpaczek mierzwiowy</answer>
+		<answer correct="false">Jamkówka różnokształtna</answer>
+		<answer correct="false">Białoporek brzozowy</answer>
+		<answer correct="false">Białoskórnik chropowaty</answer>
+	</exercise>
+	<exercise>
+		<question>Który z wymienionych gatunków grzybów jest pasożytem drzew?</question>
+		<answer correct="true">Boczniak ostrygowaty</answer>
+		<answer correct="false">Gąska tygrysia</answer>
+		<answer correct="false">Gwiazdosz potójny</answer>
+		<answer correct="false">Maczużnik bojowy</answer>
+	</exercise>
+	<exercise>
+		<question>Który z wymienionych grzybów jest grzybem podziemnym?</question>
+		<answer correct="true">Borowiczka niebieszczejąca</answer>
+		<answer correct="false">Strzykacz gwiazdkowaty</answer>
+		<answer correct="false">Galaretówka przejrzysta</answer>
+		<answer correct="false">Strocznik trzęsakowaty</answer>
+	</exercise>
+	<exercise>
+		<question>Który z wymienonych grzybów występuje zimą ?</question>
+		<answer correct="false">Włókniczek skórkowaty</answer>
+		<answer correct="false">Strzykacz gwiazdkowaty</answer>
+		<answer correct="true">Grzybówka dzwoneczkwata</answer>
+		<answer correct="false">Strocznik trzęsakowaty</answer>
+	</exercise>
+	<exercise>
+		<question>Która z narodowości jako pierwsza zaczęła uprawiać pieczarki ?</question>
+		<answer correct="false">Celtowie</answer>
+		<answer correct="false">Brytanie</answer>
+		<answer correct="false">Polanie</answer>
+		<answer correct="true">Starożytni Rzymianie i Egipcjanie</answer>
+	</exercise>
+	<exercise>
+		<question>Z jakiego grzyba nadrzewnego uzyskuje się materiał przypominający zamsz ?</question>
+		<answer correct="false">Żułciaka siarkowego</answer>
+		<answer correct="false">wrośniaka różnobarwnego</answer>
+		<answer correct="true">hubianka pospolitego</answer>
+		<answer correct="false">borowika szlachetnego</answer>
+	</exercise>
+	<exercise>
+		<question>Który z wymienionych grzybów można spotkać wiosną ?</question>
+		<answer correct="false">Mleczaj rydz</answer>
+		<answer correct="false">borowik szlachetny</answer>
+		<answer correct="false">maślak pospolity</answer>
+		<answer correct="true">czarka szkarłatana</answer>
+	</exercise>
+	<exercise>
+		<question>Ile gatunków grzybów rozpoznano na Antarktydzie ?</question>
+		<answer correct="false">Żadnego</answer>
+		<answer correct="false">19</answer>
+		<answer correct="false">500</answer>
+		<answer correct="true">1150</answer>
+	</exercise>
+	<exercise>
+		<question>W którym kraju nie ma prawa nakazującego ochronę jakichkolwiek gatunków grzybów?</question>
+		<answer correct="false">Polsce</answer>
+		<answer correct="false">Hiszpanii</answer>
+		<answer correct="false">Finlandii</answer>
+		<answer correct="true">Belgii</answer>
+	</exercise>
+	<exercise>
+		<question>W którym kraju obowiązuje zakaz zbierania grzybów w lasach publicznych? </question>
+		<answer correct="false">Polsce</answer>
+		<answer correct="false">Hiszpanii</answer>
+		<answer correct="false">Finlandii</answer>
+		<answer correct="true">Belgii</answer>
+	</exercise>
+	<exercise>
+		<question>Który z tych grzybów ma bardzo przykry zapach ?</question>
+		<answer correct="false">Sromotnik bezwstydny</answer>
+		<answer correct="true">Okratek australijski</answer>
+		<answer correct="false">Twardziaczek cuchnący</answer>
+		<answer correct="false">Gwiazdosz frędzelkowaty</answer>
+	</exercise>
+</questions>
+
